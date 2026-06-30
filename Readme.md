@@ -8,3 +8,5 @@ A -> added
 Left Hnad side green A -> added to staging Area
 ?? -> untracked
 
+hello
+
